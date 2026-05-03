@@ -1,3 +1,6 @@
+I wrote this code in March, 2025 and only pushing it to GitHub now.
+Code dependencies may have changed since then.  Use at your own risk!
+
 This python3 script will monitor the activity of an X influencer of your
 choosing every 45 seconds and post whenever the influencer posts.  Currently,
 the code works for new posts ONLY, not for replies or retweets or likes.
